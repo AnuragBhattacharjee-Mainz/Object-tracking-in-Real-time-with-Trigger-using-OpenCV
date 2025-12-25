@@ -32,8 +32,8 @@ Object tracking is critical in the logistics, automobile, retail, medical-imagin
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
 - OpenCV Library
-- Python (Numpy)
-- GitHub
+- Python 3.10 or 3.11(tested on Python 3.11.9)
+- Numpy 
 
 ---
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
